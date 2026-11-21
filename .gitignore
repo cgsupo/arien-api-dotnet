@@ -1,0 +1,20 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+artifacts/
+*.binlog
+
+# Test results
+[Tt]est[Rr]esult*/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# IDE
+.idea/
+.vs/
+*.user
+
+# Secrets
+.env
