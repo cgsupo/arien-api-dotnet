@@ -34,4 +34,27 @@
   <Folder Name="/src/Modules/Identity/Tests/UnitTests/">
     <Project Path="src/Modules/Identity/Tests/UnitTests/Osl.Arien.Modules.Identity.UnitTests.csproj" />
   </Folder>
+  <Folder Name="/src/Modules/Registrations/" />
+  <Folder Name="/src/Modules/Registrations/Application/">
+    <Project Path="src/Modules/Registrations/Application/Osl.Arien.Modules.Registrations.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/Domain/">
+    <Project Path="src/Modules/Registrations/Domain/Osl.Arien.Modules.Registrations.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/Infrastructure/">
+    <Project Path="src/Modules/Registrations/Infrastructure/Osl.Arien.Modules.Registrations.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/IntegrationEvents/">
+    <Project Path="src/Modules/Registrations/IntegrationEvents/Osl.Arien.Modules.Registrations.IntegrationEvents.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/Tests/" />
+  <Folder Name="/src/Modules/Registrations/Tests/ArchTests/">
+    <Project Path="src/Modules/Registrations/Tests/ArchTests/Osl.Arien.Modules.Registrations.ArchTests.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/Tests/IntegrationTests/">
+    <Project Path="src/Modules/Registrations/Tests/IntegrationTests/Osl.Arien.Modules.Registrations.IntegrationTests.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Registrations/Tests/UnitTests/">
+    <Project Path="src/Modules/Registrations/Tests/UnitTests/Osl.Arien.Modules.Registrations.UnitTests.csproj" />
+  </Folder>
 </Solution>
