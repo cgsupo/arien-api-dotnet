@@ -10,4 +10,28 @@
   <Folder Name="/src/BuildingBlocks/Infrastructure/">
     <Project Path="src/BuildingBlocks/Infrastructure/Osl.Arien.BuildingBlocks.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Modules/Identity/" />
+  <Folder Name="/src/Modules/Identity/Application/">
+    <Project Path="src/Modules/Identity/Application/Osl.Arien.Modules.Identity.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Domain/">
+    <Project Path="src/Modules/Identity/Domain/Osl.Arien.Modules.Identity.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Infrastructure/">
+    <Project Path="src/Modules/Identity/Infrastructure/Osl.Arien.Modules.Identity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/IntegrationEvents/">
+    <Project Path="src/Modules/Identity/IntegrationEvents/Osl.Arien.Modules.Identity.IntegrationEvents.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Tests/" />
+  <Folder Name="/src/Modules/Identity/Tests/ArchTests/">
+    <Project Path="src/Modules/Identity/Tests/ArchTests/Osl.Arien.Modules.Identity.ArchTests.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Tests/IntegrationTests/">
+    <Project Path="src/Modules/Identity/Tests/IntegrationTests/Osl.Arien.Modules.Identity.IntegrationTests.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/Identity/Tests/UnitTests/">
+    <Project Path="src/Modules/Identity/Tests/UnitTests/Osl.Arien.Modules.Identity.UnitTests.csproj" />
+  </Folder>
 </Solution>
