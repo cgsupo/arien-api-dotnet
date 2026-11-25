@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/" />
+  <Folder Name="/src/API/">
+    <Project Path="src/API/Osl.Arien.Api/Osl.Arien.Api.csproj" />
+  </Folder>
   <Folder Name="/src/BuildingBlocks/" />
   <Folder Name="/src/BuildingBlocks/Application/">
     <Project Path="src/BuildingBlocks/Application/Osl.Arien.BuildingBlocks.Application.csproj" />
