@@ -13,6 +13,10 @@
   <Folder Name="/src/BuildingBlocks/Infrastructure/">
     <Project Path="src/BuildingBlocks/Infrastructure/Osl.Arien.BuildingBlocks.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/src/Database/">
+    <Project Path="src/Database/Osl.Arien.Database.Migrator/Osl.Arien.Database.Migrator.csproj" />
+    <Project Path="src/Database/Osl.Arien.Database.Schema/Osl.Arien.Database.Schema.csproj" />
+  </Folder>
   <Folder Name="/src/Modules/" />
   <Folder Name="/src/Modules/Identity/" />
   <Folder Name="/src/Modules/Identity/Application/">
